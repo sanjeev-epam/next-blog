@@ -52,6 +52,11 @@ export default function Home() {
             </p>
           </a>
         </div>
+        <div>
+          <form>
+            State <input type="text" id="ABB" size="2"></input>
+          </form>
+        </div>
       </main>
 
       <footer className={styles.footer}>
